@@ -17,7 +17,7 @@
     "extract-text-webpack-plugin": "^2.1.0",
     "imageoptim": "^0.4.2",
     "jquery": "^3.2.1",
-    "node-sass": "^4.5.3",
+    "node-sass": "^4.13.1",
     "path": "^0.12.7",
     "postcss-loader": "^2.0.5",
     "sass-loader": "^6.0.5",
